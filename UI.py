@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Your FastAPI URL (replace with your actual ngrok URL)
-FASTAPI_URL = "https://7d00-116-110-42-45.ngrok-free.app"
+FASTAPI_URL = "https://514b-116-110-40-129.ngrok-free.app"
 
 st.title("Car Search App")
 
